@@ -1,0 +1,845 @@
+{
+  "CURRENT": {
+    "metaDetails": [
+      {
+        "name": "NAME",
+        "value": "Sai Krishna"
+      },
+      {
+        "name": "BRANCH",
+        "value": "Hyderabad"
+      },
+      {
+        "name": "DEPARTMENT",
+        "value": "Development"
+      },
+      {
+        "name": "PERIOD",
+        "value": "6/6/2021 to 6/12/2021"
+      }
+    ],
+    "timeDetails": [
+      {
+        "date": "6/6/2021",
+        "day": "Sunday"
+      },
+      {
+        "date": "6/7/2021",
+        "day": "Monday"
+      },
+      {
+        "date": "6/8/2021",
+        "day": "Tuesday"
+      },
+      {
+        "date": "6/9/2021",
+        "day": "Wednesday"
+      },
+      {
+        "date": "6/10/2021",
+        "day": "Thursday"
+      },
+      {
+        "date": "6/11/2021",
+        "day": "Friday"
+      },
+      {
+        "date": "6/12/2021",
+        "day": "Satday"
+      }
+    ],
+    "othaHours": [
+      7.75,
+      0,
+      7.75,
+      7.75,
+      7.75,
+      7.75,
+      0
+    ],
+    "claHours": [
+      0,
+      7.75,
+      0,
+      0,
+      0,
+      0,
+      7.75
+    ],
+    "holidays": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "totalHours": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "othaDetails": [
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 1
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      }
+    ],
+    "claDetails": [
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      }
+    ],
+    "ptoDetails": [
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0.25,
+        "count": 2
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0.25,
+        "count": 1
+      }
+    ]
+  },
+  "PREV": {
+    "metaDetails": [
+      {
+        "name": "NAME",
+        "value": "Sai Krishna"
+      },
+      {
+        "name": "BRANCH",
+        "value": "Hyderabad"
+      },
+      {
+        "name": "DEPARTMENT",
+        "value": "Development"
+      },
+      {
+        "name": "PERIOD",
+        "value": "5/30/2021 to 6/5/2021"
+      }
+    ],
+    "timeDetails": [
+      {
+        "date": "5/30/2021",
+        "day": "Sunday"
+      },
+      {
+        "date": "5/31/2021",
+        "day": "Monday"
+      },
+      {
+        "date": "6/1/2021",
+        "day": "Tuesday"
+      },
+      {
+        "date": "6/2/2021",
+        "day": "Wednesday"
+      },
+      {
+        "date": "6/3/2021",
+        "day": "Thursday"
+      },
+      {
+        "date": "6/4/2021",
+        "day": "Friday"
+      },
+      {
+        "date": "6/5/2021",
+        "day": "Satday"
+      }
+    ],
+    "othaHours": [
+      7.75,
+      0,
+      7.75,
+      7.75,
+      7.75,
+      7.75,
+      0
+    ],
+    "claHours": [
+      0,
+      7.75,
+      0,
+      0,
+      0,
+      0,
+      7.75
+    ],
+    "holidays": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "totalHours": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "othaDetails": [
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        }
+      }
+    ],
+    "claDetails": [
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      }
+    ],
+    "ptoDetails": [
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0.25,
+        "count": 2
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0.25,
+        "count": 1
+      }
+    ]
+  },
+  "FORWARD": {
+    "metaDetails": [
+      {
+        "name": "NAME",
+        "value": "Sai Krishna"
+      },
+      {
+        "name": "BRANCH",
+        "value": "Hyderabad"
+      },
+      {
+        "name": "DEPARTMENT",
+        "value": "Development"
+      },
+      {
+        "name": "PERIOD",
+        "value": "6/13/2021 to 6/19/2021"
+      }
+    ],
+    "timeDetails": [
+      {
+        "date": "5/30/2021",
+        "day": "Sunday"
+      },
+      {
+        "date": "5/31/2021",
+        "day": "Monday"
+      },
+      {
+        "date": "6/1/2021",
+        "day": "Tuesday"
+      },
+      {
+        "date": "6/2/2021",
+        "day": "Wednesday"
+      },
+      {
+        "date": "6/3/2021",
+        "day": "Thursday"
+      },
+      {
+        "date": "6/4/2021",
+        "day": "Friday"
+      },
+      {
+        "date": "6/5/2021",
+        "day": "Satday"
+      }
+    ],
+    "othaHours": [
+      7.75,
+      0,
+      7.75,
+      7.75,
+      7.75,
+      7.75,
+      0
+    ],
+    "claHours": [
+      0,
+      7.75,
+      0,
+      0,
+      0,
+      0,
+      7.75
+    ],
+    "holidays": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "totalHours": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "othaDetails": [
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        }
+      }
+    ],
+    "claDetails": [
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "7:58 AM",
+          "outTime": "12:01 AM"
+        },
+        "secondHalfDetails": {
+          "inTime": "1:00 PM",
+          "outTime": "5:20 PM",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      },
+      {
+        "firstHalfDetails": {
+          "inTime": "",
+          "outTime": ""
+        },
+        "secondHalfDetails": {
+          "inTime": "",
+          "outTime": "",
+          "exitTimes": 2
+        },
+        "claHrs": 7.75
+      }
+    ],
+    "ptoDetails": [
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0.25,
+        "count": 2
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0,
+        "count": 1
+      },
+      {
+        "pto": 0.25,
+        "count": 1
+      }
+    ]
+  }
+}
