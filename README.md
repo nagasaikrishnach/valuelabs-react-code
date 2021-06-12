@@ -1,13 +1,13 @@
 # valuelabs-react-code
 
-# Start backend server
-# json-server has been used for API mock response
+## Start backend server
+### json-server has been used for API mock response
 ### Open terminal and run below command
-    npm run backend
+### npm run backend
 
-# Start react project
+## Start react project
 ### Open terminal and run below command
-    npm run start
+### npm run start
 
-## API
-Used mock data and have done data change for date time picker, backward and forward week selector. 
+## API details
+### Used mock data and have done data change for date time picker, backward and forward week selector. 
