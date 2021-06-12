@@ -1,0 +1,49 @@
+.MuiTableCell-root{
+    padding: 2px 15px !important;
+}
+
+table.meta-table{
+    background-color: #efefef;
+    tr{
+        background-color: white;
+        height: 25px;
+    }
+}
+
+table.sheet-table{
+    background-color: #efefef;
+    tr{
+        background-color: white;
+    }
+}
+table.internal-sheet-table{
+    tr + tr {
+        td{
+            border-top: 0.5px solid #efefef;
+            height: 12px;
+        }
+    }
+}
+.tr-heading{
+    th, tr {
+        text-align: left;
+        padding: 2px 20px;
+        height: 40px;
+    }
+}
+.tr-heading, .tr-footer{
+    background-color: #024769 !important;
+    color: white;
+}
+.tr-footer{
+    text-align: center;
+    height: 25px;
+    padding: 2px 2px;
+}
+.tr-grey-heading{
+    background-color: #efefef !important;
+}
+.in-out-tile{
+    border-left: 1px solid #efefef;
+    padding: 3px 0px 3px 30px;
+}
