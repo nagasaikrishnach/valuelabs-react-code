@@ -1,12 +1,12 @@
 # valuelabs-react-code
 
-## Start backend server
+# Start backend server
 # json-server has been used for API mock response
-Open terminal and run below command
+### Open terminal and run below command
     npm run backend
 
-## Start react project
-Open terminal and run below command
+# Start react project
+### Open terminal and run below command
     npm run start
 
 ## API
