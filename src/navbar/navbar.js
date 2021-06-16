@@ -16,25 +16,22 @@ const NavBar = ({children, ...rest}) => {
         setSidebarStatus(open);
     };
     return (
-        // <NavbarContext.provider value={{sidebarStatus, setSidebarStatus, toggleDrawer}}>
-            <AppBar position="static">
-                <Toolbar>
-                    <div>
-                        <h2 color="inherit">WizDepot</h2>
-                    </div>
-                    <div className="nav-timesheet">
-                        <h3>My Timesheet</h3>
-                    </div>
-                    <div className="profile-img">
-                        <Avatar alt="Profile image" src="./src/assets/img/profile.jpg" />
-                    </div>
-                    <div> <ExpandMoreIcon /> </div>
-                </Toolbar>
-                { children }
-            </AppBar>
-        // </NavbarContext.provider>
+        <AppBar position="static">
+            <Toolbar>
+                <div>
+                    <h2 color="inherit">WizDepot</h2>
+                </div>
+                <div className="nav-timesheet">
+                    <h3>My Timesheet</h3>
+                </div>
+                <div className="profile-img">
+                    <Avatar alt="Profile image" src="./src/assets/img/profile.jpg" />
+                </div>
+                <div> <ExpandMoreIcon /> </div>
+            </Toolbar>
+            { children }
+        </AppBar>
     );
 }
 
 export default NavBar;
-// export { NavbarContext };
