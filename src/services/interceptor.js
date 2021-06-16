@@ -11,7 +11,6 @@ const axiosInterceptor = () => {
             url: url
         };
     }, function (error) {
-        // Do something with request error
         return Promise.reject(error);
     });
 }
