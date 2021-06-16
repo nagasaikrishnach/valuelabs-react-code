@@ -8,13 +8,6 @@ import './navbar.scss';
 const NavbarContext = createContext();
 
 const NavBar = ({children, ...rest}) => {
-    const [sidebarStatus, setSidebarStatus] = React.useState(false);
-    const toggleDrawer = (open) => (event) => {
-        if (event && event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
-          return;
-        }
-        setSidebarStatus(open);
-    };
     return (
         <AppBar position="static">
             <Toolbar>
